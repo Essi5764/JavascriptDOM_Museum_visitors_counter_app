@@ -18,3 +18,5 @@ Pseudo  Code for this mini project:
   [PROJECT LINK](https://essi5764.github.io/JavascriptDOM_Museum_visitors_counter_app/)
   
   ![PROJECT](project.jpg)
+  
+  picture by https://unsplash.com/@kitera
